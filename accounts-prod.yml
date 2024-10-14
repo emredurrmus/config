@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "accounts related prod APIs "
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
+    name: "Emre Durmus - Product Owner"
     email: "emre@gmail.com"
   onCallSupport:
     - (453) 392-4829
